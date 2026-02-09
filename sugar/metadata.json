@@ -1,30 +1,38 @@
 {
-  "name": "Sugar Stablecoin",
-  "symbol": "SUGAR",
-  "description": "Currency for trading in the Sugar Coin Club",
-  "image": "https://django-app-326340579791.us-east4.run.app/static/sugar.jpeg",
-  "external_url": "https://sugarcapital.io",
-  "attributes": [
-    {
-      "trait_type": "Asset Type",
-      "value": "test_token"
-    },
-    {
-      "trait_type": "Environment",
-      "value": "devnet"
-    },
-    {
-      "trait_type": "Decimals",
-      "value": "6"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "",
-        "type": "image/jpeg"
-      }
+    "name": "Sugar Stablecoin",
+    "symbol": "SUGAR",
+    "description": "Platform stablecoin for Sugar Capital RWA tokenization - pegged 1:1 to USD for trading real-world assets",
+    "image": "https://django-app-326340579791.us-east4.run.app/static/sugar.jpeg",
+    "external_url": "https://sugarcapital.io",
+    "attributes": [
+        {
+            "trait_type": "Asset Type",
+            "value": "stablecoin"
+        },
+        {
+            "trait_type": "Peg",
+            "value": "USD"
+        },
+        {
+            "trait_type": "Decimals",
+            "value": "6"
+        },
+        {
+            "trait_type": "Network",
+            "value": "Solana"
+        },
+        {
+            "trait_type": "Standard",
+            "value": "Token-2022"
+        }
     ],
-    "category": "currency"
-  }
+    "properties": {
+        "files": [
+            {
+                "uri": "https://django-app-326340579791.us-east4.run.app/static/sugar.jpeg",
+                "type": "image/jpeg"
+            }
+        ],
+        "category": "currency"
+    }
 }
