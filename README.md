@@ -1,0 +1,1 @@
+# sugarcoin_metadata
