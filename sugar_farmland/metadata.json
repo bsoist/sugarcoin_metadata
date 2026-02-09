@@ -1,7 +1,7 @@
 {
-  "name": "Sugar Stablecoin",
-  "symbol": "SUGAR",
-  "description": "Currency for trading in the Sugar Coin Club",
+  "name": "Sugar Farmland",
+  "symbol": "SUGARFARM",
+  "description": "A farm in Ocean County, New Jersey",
   "image": "https://raw.githubusercontent.com/bsoist/sugarcoin_metadata/refs/heads/main/sugar_farmland/farm.jpeg",
   "external_url": "https://sugarcapital.io",
   "attributes": [
