@@ -2,7 +2,7 @@
     "name": "Sugar Stablecoin",
     "symbol": "SUGAR",
     "description": "Platform stablecoin for Sugar Capital RWA tokenization - pegged 1:1 to USD for trading real-world assets",
-    "image": "https://django-app-326340579791.us-east4.run.app/static/sugar.jpeg",
+    "image": "https://raw.githubusercontent.com/bsoist/sugarcoin_metadata/refs/heads/main/sugar/sugar.jpeg",
     "external_url": "https://sugarcapital.io",
     "attributes": [
         {
@@ -29,7 +29,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://django-app-326340579791.us-east4.run.app/static/sugar.jpeg",
+                "uri": "https://raw.githubusercontent.com/bsoist/sugarcoin_metadata/refs/heads/main/sugar/sugar.jpeg",
                 "type": "image/jpeg"
             }
         ],
